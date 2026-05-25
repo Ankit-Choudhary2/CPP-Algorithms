@@ -38,7 +38,7 @@ void merge_sort(vector <int> &vec, int low, int high) {
 }
 
 int main() {
-    freopen("D:\\CPP\\CPP-Algorithms\\input.txt", "r", stdin);
+    // freopen("D:\\CPP\\CPP-Algorithms\\input.txt", "r", stdin);
     // freopen("D:\\CPP\\output.txt", "w", stdout);
     int n;
     cin >> n;

@@ -3,3 +3,5 @@
 *.out
 output.txt
 .vscode/
+input.txt
+.vscode
