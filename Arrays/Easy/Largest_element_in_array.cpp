@@ -19,6 +19,7 @@ int main()
     vector<int> vec;
     int x;
     while(cin >> x) vec.emplace_back(x);
+    
     cout << "Largest: " << largest_element(vec) << endl;
     return 0;
 }
