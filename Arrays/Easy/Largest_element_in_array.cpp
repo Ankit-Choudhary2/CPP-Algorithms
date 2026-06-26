@@ -13,7 +13,6 @@ int largest_element(vector<int> &vec)
     }
     return largest;
 }
-
 int main()
 {
     vector<int> vec;
